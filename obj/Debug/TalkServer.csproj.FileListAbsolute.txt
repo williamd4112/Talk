@@ -1,0 +1,22 @@
+c:\users\grace\documents\visual studio 2013\Projects\Talk\Talk\bin\Debug\Talk.exe.config
+c:\users\grace\documents\visual studio 2013\Projects\Talk\Talk\bin\Debug\Talk.exe
+c:\users\grace\documents\visual studio 2013\Projects\Talk\Talk\bin\Debug\Talk.pdb
+c:\users\grace\documents\visual studio 2013\Projects\Talk\Talk\obj\Debug\TalkServer.csprojResolveAssemblyReference.cache
+c:\users\grace\documents\visual studio 2013\Projects\Talk\Talk\obj\Debug\Talk.Properties.Resources.resources
+c:\users\grace\documents\visual studio 2013\Projects\Talk\Talk\obj\Debug\TalkServer.csproj.GenerateResource.Cache
+c:\users\grace\documents\visual studio 2013\Projects\Talk\Talk\obj\Debug\Talk.exe
+c:\users\grace\documents\visual studio 2013\Projects\Talk\Talk\obj\Debug\Talk.pdb
+C:\Users\Grace\documents\visual studio 2013\Projects\Talk\Talk\obj\Debug\Talk.TalkServer.resources
+C:\Users\Grace\documents\visual studio 2013\Projects\Talk\Talk\bin\Debug\TalkLibrary.dll
+C:\Users\Grace\documents\visual studio 2013\Projects\Talk\Talk\bin\Debug\TalkLibrary.pdb
+C:\Users\Williamd\Desktop\Project\Talk\bin\Debug\Talk.exe.config
+C:\Users\Williamd\Desktop\Project\Talk\obj\Debug\Talk.exe
+C:\Users\Williamd\Desktop\Project\Talk\obj\Debug\Talk.pdb
+C:\Users\Williamd\Desktop\Project\Talk\obj\Debug\TalkServer.csprojResolveAssemblyReference.cache
+C:\Users\Williamd\Desktop\Project\Talk\obj\Debug\Talk.Properties.Resources.resources
+C:\Users\Williamd\Desktop\Project\Talk\obj\Debug\Talk.TalkServer.resources
+C:\Users\Williamd\Desktop\Project\Talk\obj\Debug\TalkServer.csproj.GenerateResource.Cache
+C:\Users\Williamd\Desktop\Project\Talk\bin\Debug\Talk.exe
+C:\Users\Williamd\Desktop\Project\Talk\bin\Debug\Talk.pdb
+C:\Users\Williamd\Desktop\Project\Talk\bin\Debug\TalkLibrary.dll
+C:\Users\Williamd\Desktop\Project\Talk\bin\Debug\TalkLibrary.pdb

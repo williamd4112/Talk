@@ -35,7 +35,7 @@
             this.button2 = new System.Windows.Forms.Button();
             this.stat = new System.Windows.Forms.Label();
             this.typeStat = new System.Windows.Forms.Label();
-            this.connlist = new System.Windows.Forms.ListBox();
+            this.list = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // label1
@@ -104,21 +104,21 @@
             this.typeStat.Size = new System.Drawing.Size(0, 12);
             this.typeStat.TabIndex = 7;
             // 
-            // connlist
+            // list
             // 
-            this.connlist.FormattingEnabled = true;
-            this.connlist.ItemHeight = 12;
-            this.connlist.Location = new System.Drawing.Point(218, 24);
-            this.connlist.Name = "connlist";
-            this.connlist.Size = new System.Drawing.Size(97, 232);
-            this.connlist.TabIndex = 8;
+            this.list.FormattingEnabled = true;
+            this.list.ItemHeight = 12;
+            this.list.Location = new System.Drawing.Point(218, 24);
+            this.list.Name = "list";
+            this.list.Size = new System.Drawing.Size(97, 232);
+            this.list.TabIndex = 8;
             // 
             // TalkServer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(327, 299);
-            this.Controls.Add(this.connlist);
+            this.Controls.Add(this.list);
             this.Controls.Add(this.typeStat);
             this.Controls.Add(this.stat);
             this.Controls.Add(this.button2);
@@ -143,7 +143,7 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Label stat;
         private System.Windows.Forms.Label typeStat;
-        private System.Windows.Forms.ListBox connlist;
+        private System.Windows.Forms.ListBox list;
     }
 }
 
